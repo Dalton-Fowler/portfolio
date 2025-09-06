@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Columbia College\\Agile\\Dropbox16\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DAAA675-CFCE-4B14-8FEB-E925DBBE5704}|WinFormsApp1.csproj|f:\\columbia college\\agile\\dropbox16\\winformsapp1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DAAA675-CFCE-4B14-8FEB-E925DBBE5704}|WinFormsApp1.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DAAA675-CFCE-4B14-8FEB-E925DBBE5704}|WinFormsApp1.csproj|f:\\columbia college\\agile\\dropbox16\\winformsapp1\\displayallform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DAAA675-CFCE-4B14-8FEB-E925DBBE5704}|WinFormsApp1.csproj|solutionrelative:displayallform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DAAA675-CFCE-4B14-8FEB-E925DBBE5704}|WinFormsApp1.csproj|f:\\columbia college\\agile\\dropbox16\\winformsapp1\\addemployeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DAAA675-CFCE-4B14-8FEB-E925DBBE5704}|WinFormsApp1.csproj|solutionrelative:addemployeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DAAA675-CFCE-4B14-8FEB-E925DBBE5704}|WinFormsApp1.csproj|f:\\columbia college\\agile\\dropbox16\\winformsapp1\\addhoursform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DAAA675-CFCE-4B14-8FEB-E925DBBE5704}|WinFormsApp1.csproj|solutionrelative:addhoursform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DAAA675-CFCE-4B14-8FEB-E925DBBE5704}|WinFormsApp1.csproj|f:\\columbia college\\agile\\dropbox16\\winformsapp1\\addhoursform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DAAA675-CFCE-4B14-8FEB-E925DBBE5704}|WinFormsApp1.csproj|solutionrelative:addhoursform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DAAA675-CFCE-4B14-8FEB-E925DBBE5704}|WinFormsApp1.csproj|f:\\columbia college\\agile\\dropbox16\\winformsapp1\\addemployeeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DAAA675-CFCE-4B14-8FEB-E925DBBE5704}|WinFormsApp1.csproj|solutionrelative:addemployeeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DAAA675-CFCE-4B14-8FEB-E925DBBE5704}|WinFormsApp1.csproj|f:\\columbia college\\agile\\dropbox16\\winformsapp1\\displayallform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DAAA675-CFCE-4B14-8FEB-E925DBBE5704}|WinFormsApp1.csproj|solutionrelative:displayallform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DAAA675-CFCE-4B14-8FEB-E925DBBE5704}|WinFormsApp1.csproj|f:\\columbia college\\agile\\dropbox16\\winformsapp1\\addemployeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DAAA675-CFCE-4B14-8FEB-E925DBBE5704}|WinFormsApp1.csproj|solutionrelative:addemployeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DAAA675-CFCE-4B14-8FEB-E925DBBE5704}|WinFormsApp1.csproj|f:\\columbia college\\agile\\dropbox16\\winformsapp1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DAAA675-CFCE-4B14-8FEB-E925DBBE5704}|WinFormsApp1.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DAAA675-CFCE-4B14-8FEB-E925DBBE5704}|WinFormsApp1.csproj|f:\\columbia college\\agile\\dropbox16\\winformsapp1\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DAAA675-CFCE-4B14-8FEB-E925DBBE5704}|WinFormsApp1.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DisplayAllForm.cs [Design]",
+              "DocumentMoniker": "F:\\Columbia College\\Agile\\Dropbox16\\WinFormsApp1\\DisplayAllForm.cs",
+              "RelativeDocumentMoniker": "DisplayAllForm.cs",
+              "ToolTip": "F:\\Columbia College\\Agile\\Dropbox16\\WinFormsApp1\\DisplayAllForm.cs [Design]",
+              "RelativeToolTip": "DisplayAllForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T23:19:57.505Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddEmployeeForm.Designer.cs",
+              "DocumentMoniker": "F:\\Columbia College\\Agile\\Dropbox16\\WinFormsApp1\\AddEmployeeForm.Designer.cs",
+              "RelativeDocumentMoniker": "AddEmployeeForm.Designer.cs",
+              "ToolTip": "F:\\Columbia College\\Agile\\Dropbox16\\WinFormsApp1\\AddEmployeeForm.Designer.cs",
+              "RelativeToolTip": "AddEmployeeForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T22:36:38.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddHoursForm.cs",
+              "DocumentMoniker": "F:\\Columbia College\\Agile\\Dropbox16\\WinFormsApp1\\AddHoursForm.cs",
+              "RelativeDocumentMoniker": "AddHoursForm.cs",
+              "ToolTip": "F:\\Columbia College\\Agile\\Dropbox16\\WinFormsApp1\\AddHoursForm.cs",
+              "RelativeToolTip": "AddHoursForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T22:12:01.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddHoursForm.cs [Design]",
+              "DocumentMoniker": "F:\\Columbia College\\Agile\\Dropbox16\\WinFormsApp1\\AddHoursForm.cs",
+              "RelativeDocumentMoniker": "AddHoursForm.cs",
+              "ToolTip": "F:\\Columbia College\\Agile\\Dropbox16\\WinFormsApp1\\AddHoursForm.cs [Design]",
+              "RelativeToolTip": "AddHoursForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T23:04:17.074Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddEmployeeForm.cs",
+              "DocumentMoniker": "F:\\Columbia College\\Agile\\Dropbox16\\WinFormsApp1\\AddEmployeeForm.cs",
+              "RelativeDocumentMoniker": "AddEmployeeForm.cs",
+              "ToolTip": "F:\\Columbia College\\Agile\\Dropbox16\\WinFormsApp1\\AddEmployeeForm.cs",
+              "RelativeToolTip": "AddEmployeeForm.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwDAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T23:20:29.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "F:\\Columbia College\\Agile\\Dropbox16\\WinFormsApp1\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "F:\\Columbia College\\Agile\\Dropbox16\\WinFormsApp1\\MainForm.cs [Design]",
+              "RelativeToolTip": "MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T22:41:35.02Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DisplayAllForm.cs",
+              "DocumentMoniker": "F:\\Columbia College\\Agile\\Dropbox16\\WinFormsApp1\\DisplayAllForm.cs",
+              "RelativeDocumentMoniker": "DisplayAllForm.cs",
+              "ToolTip": "F:\\Columbia College\\Agile\\Dropbox16\\WinFormsApp1\\DisplayAllForm.cs",
+              "RelativeToolTip": "DisplayAllForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T22:37:27.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddEmployeeForm.cs [Design]",
+              "DocumentMoniker": "F:\\Columbia College\\Agile\\Dropbox16\\WinFormsApp1\\AddEmployeeForm.cs",
+              "RelativeDocumentMoniker": "AddEmployeeForm.cs",
+              "ToolTip": "F:\\Columbia College\\Agile\\Dropbox16\\WinFormsApp1\\AddEmployeeForm.cs [Design]",
+              "RelativeToolTip": "AddEmployeeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T23:20:00.573Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "F:\\Columbia College\\Agile\\Dropbox16\\WinFormsApp1\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "F:\\Columbia College\\Agile\\Dropbox16\\WinFormsApp1\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T22:55:24.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "F:\\Columbia College\\Agile\\Dropbox16\\WinFormsApp1\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MainForm.Designer.cs",
+              "ToolTip": "F:\\Columbia College\\Agile\\Dropbox16\\WinFormsApp1\\MainForm.Designer.cs",
+              "RelativeToolTip": "MainForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T23:12:36.212Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
